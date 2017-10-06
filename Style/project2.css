@@ -1,0 +1,13 @@
+body{
+	background: blue;
+
+}
+h1, h2, li {
+	color: #555;
+}
+
+p{
+	background: #666;
+	color: white;
+	padding: 10px;
+}
